@@ -12,3 +12,5 @@ Also, I used the 5300 runtime enviroment for these just to ensure compatability.
 The animation file contains various animations I've saved from the simulator.  That said it is contains the failures of I had along the way.
 
 Well, this is all done.  I enjoyed the class, despite the early time.  Like I mentioned in the evaluation I'll mention it here as well, consider using sciserver.org instead of class.osc.  It doesn't time you out and force you to restart your enviroment, but, I'm unsure if it has a good way to get the all the notebooks to the students.  Perhaps Proffesor Terndrup from the astrophysics department would know.  Well that's my last two cents.  I hope the notebook works, and have a pleasent day.  
+
+Almost forgot, just to be sure, my name is Zachary C. Chaney.  
